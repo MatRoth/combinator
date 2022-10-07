@@ -9,4 +9,4 @@ https://github.com/loophp/combinator
 1. Aliases for all combinators (e.g. Bluebird or B combinator `bluebird()` or `b()`.
 2. Print method for all combinators which shows an ASCII art style flow diagram of the combinator.
 3. (Optional for learning purposes) Type checking using the `typed` package. Checks if inputs for elements of the combinator are indeed functions.
-4. APL style left to right associative operators.
+4. APL style right associative operators.
