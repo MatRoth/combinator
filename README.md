@@ -1,8 +1,6 @@
 # combinator
 R Package which contains combinators for functional programming in R. Mostly for learning. Perhaps as a set of tools to compose more complex data transformations.
 
-The combinators are taken from the curated list of combinators from
-https://github.com/loophp/combinator
 
 ## Possible features
 
