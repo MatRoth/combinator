@@ -1,11 +1,11 @@
 # combinator
-R Package which contains combinators for functional programming in R.
+R Package which contains combinators for functional programming in R. Mostly for learning. Perhaps as a set of tools to compose more complex data transformations.
 
 The combinators are taken from the curated list of combinators from
 https://github.com/loophp/combinator
 
 ## Possible features
 
-1. Aliases for all combinators (e.g. Bluebird or B combinator `bluebird()` or `b()`.
+1. Aliases for all combinators (e.g. Bluebird or B combinator `bluebird()` or `b()`. Maybe even special symbols which should be accessed via shortcuts in RStudio.
 2. Print method for all combinators which shows an ASCII art style flow diagram of the combinator.
-3. (Optional for learning purposes) Type checking using the `typed` package. Checks if inputs for elements of the combinator are indeed functions.
+
